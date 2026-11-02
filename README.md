@@ -1,42 +1,35 @@
+# Negosud Shop
 
+Online wine shop front-end built with Vue 3.
 
+## Features
 
-# Negosud-Shop (wine shop)
- 
- 
+- Vue Router and Vuex store
+- Stripe payments
+- Product carousel and cart
 
-## Preview
- 
+## Tech Stack
 
-### Get Started
-``` bash
-## install dependencies
+- Vue.js
+- Vuex
+- Stripe
+
+## Getting Started
+
+```bash
+git clone https://github.com/ghostland-dev/negosud-shop.git
+cd negosud-shop
 npm install
-
-## serve with hot reload at localhost:8080
 npm run serve
-
 ```
- 
 
-## Prerequests 
+Other scripts:
 
-## Installation
+- `npm run build`: vue-cli-service build
 
-## Architecture
+## Author
 
-## Routing
+**Ismail.M**, Software Engineer & DevOps
 
-## technologies
-
-## Plugins
-
-## Resources
-
-## DB Stracture
-
-## Data Modeling 
-
-## User interface (UI) 
-
-## User Experience (UX)
+- GitHub: [@ghostland-dev](https://github.com/ghostland-dev)
+- Website: [ismail-mouyahada.com](https://www.ismail-mouyahada.com)
